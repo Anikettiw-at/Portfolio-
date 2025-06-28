@@ -17,13 +17,13 @@
 .nav-connect{
   padding:20px 40px;
   border-radius: 50px;
-  background: linear-gradient(267deg,#DA7C25 0.36%,#b923E1 102.6%);
+  background: linear-gradient(267deg,#DA7C25 0.36%,#02859f 102.6%);
    font-size: 22px;
    cursor:pointer;
 
 }
 .nav-connect:hover{
-  background: linear-gradient(267deg,#b923E1 0.36%,#DA7C25 102.6%);
+  background: linear-gradient(267deg,#31b10e 0.36%,#DA7C25 102.6%);
   transition: all 0.3s ease-in-out;
   transform: scale(1.06);
   

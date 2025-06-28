@@ -4,6 +4,7 @@ import Hero from './components/hero/hero';
 import About from './components/About/About';
 import Services from './components/Servic/Services';
 import MyWork from './components/MyWork/MyWork';
+import Contact from './components/Contact/Contact';
 const App = () => {
   return (
     <div>
@@ -12,6 +13,7 @@ const App = () => {
      <About/>
      <Services/>
      <MyWork/>
+     <Contact/>
     
     </div>
   )

@@ -54,7 +54,7 @@
     outline: none;
     width: 50%;
     height: 8px;
-    background: linear-gradient(264deg,#503103  -5.09%, #0378ed 100%);
+    background: linear-gradient(264deg,#f1983f  -5.09%, #4a1101 100%);
     border: none;
     border-radius: 50px;}
 .about-achivements{
@@ -78,7 +78,7 @@
 .about-achivement h1{
     font-size: 60px;
     font-weight: 700;
-    background: linear-gradient(264deg,#e10fda  -5.09%, #0378ed 100%);
+    background: linear-gradient(264deg,#d65b0f  -5.09%, #0f95d7 100%);
       background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -86,7 +86,7 @@
 .about-achivement p{
     font-size: 24px;
     font-weight: 500;
-    color: #f79a10;
+    color: #12d740;
 }
 .about-achivement:hover{
     transform: scale(1.2);
