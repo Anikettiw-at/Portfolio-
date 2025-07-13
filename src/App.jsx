@@ -5,7 +5,7 @@ import About from './components/About/About';
 import Services from './components/Servic/Services';
 import MyWork from './components/MyWork/MyWork';
 import Contact from './components/Contact/Contact';
-import Footer from './components/Footer/Footer';
+import Foooter from './components/Foote/Foooter';
 
 const App = () => {
   return (
@@ -16,7 +16,7 @@ const App = () => {
      <Services/>
      <MyWork/>
      <Contact/>
-     <Footer/>
+     <Foooter/>
     
     </div>
   )
