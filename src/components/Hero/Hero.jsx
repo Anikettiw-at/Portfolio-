@@ -24,7 +24,7 @@ import React from 'react';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import './Hero.css'; 
 import profile_img from '../../assets/profile_img.jpg';
-import resume from '../../assets/resume3.pdf'; // Keep in src/assets
+import resume from '../../assets/Resume3.pdf'; // Keep in src/assets
 
 const Hero = () => {
     return (
